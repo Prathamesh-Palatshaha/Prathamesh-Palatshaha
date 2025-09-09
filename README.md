@@ -8,6 +8,7 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **pratham010503@gmail.com**
+- Read My Research @ **https://www.researchgate.net/profile/Prathamesh-Palatshaha/research**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
