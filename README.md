@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Palatshaha</h1>
-<h3 align="center">Exploring AI Algorithms and Ethical Hacking Techniques</h3>
+<h3 align="center">Exploring AI Algorithms</h3>
 
-- 🌱 I’m currently learning **CPP, Deep Learning Techniques, GenAI**
+- 🌱 I’m currently learning **Deep Learning Techniques, GenAI**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
