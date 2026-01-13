@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Palatshaha</h1>
 <h3 align="center">Exploring AI Algorithms</h3>
 
-- 🌱 I’m currently learning **Deep Learning Techniques, GenAI**
+- 🌱 I’m currently learning **GenAI & BA**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning & Business Analytics Projects**
 
 - 💬 Ask me about **Python**
 
